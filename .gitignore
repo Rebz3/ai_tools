@@ -1,0 +1,13 @@
+.*
+*.env
+venv/
+_out/
+__pycache__/
+*.lock
+!.gitignore
+!.dockerignore
+!.gitlab-ci.yml
+!.env.example
+!.gitlab
+!.config.properties
+!.config.coverage.properties
